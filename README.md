@@ -47,6 +47,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
   #
   [Canan Pelin Yıldırım]
-  İskenderun Teknik Üniversitesi
+  İskenderun Teknik Üniversitesi/
   Yönetim Bilişim Sistemleri Bölümü
    
